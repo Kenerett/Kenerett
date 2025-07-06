@@ -61,7 +61,7 @@ class Sweepy:
                 self.nav.follow_path(path)
                 self.actuators.collect(trash)
 ```
-#### 🤖 Sweepy - Autonomous Beach Cleaning Robot
+#### 📚 STNS - Smart Education Platform
 ```Dart
 class STNSApp extends StatelessWidget {
   @override
@@ -80,9 +80,10 @@ class STNSApp extends StatelessWidget {
     );
   }
 }
+⚡ Daily Development Stats
 
-🌌 Late Night Coding   ███████████████████░░   85% 
-☕ Coffee Consumed     █████████████████████   100%
+🌌 Late Night Coding  ███████████████████░░   85% 
+☕ Coffee Consumed    █████████████████████   100%
 🤖 ROS2 Nodes         ████████████░░░░░░░░░   60%
 🐍 Python Scripts     █████████████████░░░░   75%
 🔧 Hardware Debugging ████████░░░░░░░░░░░░░   40%
