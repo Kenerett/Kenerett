@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5mOGVkY2J1Z2J4d2R0dWJ1aXJqY2V4eGZ2bHZqZzRlZGZ6eWZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxldXZkZm8zejg1Mm1veTIxc250aGZsYnZqMndmdWY4YzFsd3B1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mIZ9rPeMKefm0/giphy.gif" width="200"/>
   <h1>👋 Hey there, I'm Keneret</h1>
   <h3>🤖 Robotics Engineer | 🧠 AI Enthusiast | 💻 Full-Stack Developer | 👨‍🎓 Student </h3>
 </div>
