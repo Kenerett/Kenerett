@@ -1,64 +1,53 @@
-<h1 align="center">Hi, I'm <span style="color:#00bfff;">Keneret</span> 👋</h1>
+# 👋 Привет! Меня зовут [Твое Имя]
 
-<p align="center">
-  <em>🚀 Robotics & Mechatronics Engineer | Project Manager | Software & Embedded Developer</em>
-</p>
+🎓 Студент / 💻 Разработчик / 🧠 Любитель технологий
 
 ---
 
-### 🛠️ Current Projects
-
-<div align="center" markdown="1">
-  
-| Project | Description |
-|-|-|
-| 🤖 **Sweepy** | Autonomous beach-cleaning robot using <code>ROS2</code>, AI, & embedded systems |
-| 📚 **STNS** | Student-Teacher Management System — full-stack web & mobile app |
-| 🌐 **Web & Mobile** | Full-stack development with <code>Python</code> & modern frameworks |
-
-</div>
+## 🌟 О себе
+Я увлечён разработкой программного обеспечения и изучаю технологии, связанные с веб-разработкой, анализом данных и искусственным интеллектом. Я стремлюсь создавать полезные приложения и постоянно учиться новому.
 
 ---
 
-### 🧰 Tech Stack
+## 🔧 Навыки
 
-<p align="center">
-  <code>Python</code> &nbsp; • &nbsp; <code>C++</code> &nbsp; • &nbsp; <code>JavaScript</code> &nbsp; • &nbsp; 
-  <code>ROS2</code> &nbsp; • &nbsp; <code>Jetson</code> &nbsp; • &nbsp; <code>Arduino</code> &nbsp; • &nbsp; <code>Raspberry Pi</code><br/>
-  <code>Django</code> &nbsp; • &nbsp; <code>Flutter</code> &nbsp; • &nbsp; <code>React</code> &nbsp; • &nbsp; 
-  <code>Linux</code> &nbsp; • &nbsp; <code>Docker</code> &nbsp; • &nbsp; <code>Git</code><br/>
-  <code>YOLO</code> &nbsp; • &nbsp; <code>OpenCV</code> &nbsp; • &nbsp; <code>PyTorch</code>
-</p>
+- 💻 Программирование: Python, JavaScript, Java, C++
+- 🌐 Веб-разработка: HTML, CSS, React, Node.js
+- 📊 Анализ данных: Pandas, NumPy, Matplotlib
+- 🛠️ Инструменты: Git, GitHub, VS Code, Docker
+- 📚 Учусь сейчас: [Например: Machine Learning, Cloud Computing]
 
 ---
 
-### 📊 GitHub Stats
+## 📦 Мои проекты
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Keneret&show_icons=true&theme=radical&hide_title=true" alt="Keneret's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keneret&layout=compact&theme=radical&hide_title=true" alt="Keneret's Top Languages" />
-</p>
+📌 **[Проект 1]**  
+Краткое описание проекта. Какую проблему решал? На чём написан?
 
----
+📌 **[Проект 2]**  
+Краткое описание проекта. Какую проблему решал? На чём написан?
 
-### 📫 How to Reach Me
+📌 **[Проект 3]**  
+Краткое описание проекта. Какую проблему решал? На чём написан?
 
-<p align="center">
-  <a href="https://linkedin.com/in/keneret" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/keneret" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  &nbsp;
-  <a href="mailto:keneret@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+> Подробнее смотрите в разделе [Repositories](https://github.com/ ваш_логин?tab=repositories)
 
 ---
 
-<p align="center" style="font-style: italic; color: #888;">
-  Thanks for visiting my GitHub profile! Let's build the future together. 👾
-</p>
+## 📈 Активность на GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true&theme=dracula)
+![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_логин&layout=compact&theme=dracula)
+
+---
+
+## 📬 Связаться со мной
+
+📩 Email: [твой_email@example.com]  
+🐦 Twitter: [@ваш_никнейм]  
+💼 LinkedIn: [linkedin.com/in/ваш_профиль]  
+🌐 Блог / сайт: [ваш_сайт]
+
+---
+
+> 📝 *"Программируя, я создаю будущее."* — [Ваше имя]
