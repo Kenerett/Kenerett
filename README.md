@@ -82,9 +82,24 @@ class STNSApp extends StatelessWidget {
 }
 ```
 ⚡ Daily Development Stats
-
+```
 🌌 Late Night Coding  ███████████████████░░   85% 
 ☕ Coffee Consumed    █████████████████████   100%
 🤖 ROS2 Nodes         ████████████░░░░░░░░░   60%
 🐍 Python Scripts     █████████████████░░░░   75%
 🔧 Hardware Debugging ████████░░░░░░░░░░░░░   40%
+```
+
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://linktr.ee/Amos_root">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+</p>
+
+
+
+
+
