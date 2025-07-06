@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5mOGVkY2J1Z2J4d2R0dWJ1aXJqY2V4eGZ2bHZqZzRlZGZ6eWZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
   <h1>👋 Hey there, I'm Keneret</h1>
-  <h3>🤖 Robotics Engineer | 🧠 AI Enthusiast | 💻 Full-Stack Developer</h3>
+  <h3>🤖 Robotics Engineer | 🧠 AI Enthusiast | 💻 Full-Stack Developer | 👨‍🎓 Student </h3>
 </div>
 
 ---
@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" alt="YOLO" />
+
 </p>
 
 #### 💻 Programming Languages
@@ -35,8 +37,8 @@
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> -->
 </p>
 
 ---
@@ -58,7 +60,9 @@ class Sweepy:
                 path = self.nav.plan_path(trash.position)
                 self.nav.follow_path(path)
                 self.actuators.collect(trash)
-
+```
+#### 🤖 Sweepy - Autonomous Beach Cleaning Robot
+```Dart
 class STNSApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -71,12 +75,12 @@ class STNSApp extends StatelessWidget {
         title: 'STNS',
         theme: AppTheme.lightTheme,
         home: AuthWrapper(),
+        navigatorObservers: [AnalyticsObserver()],
       ),
     );
   }
 }
-
-
+```
 🌙 Late Night Coding   ███████████████████░░   85% 
 ☕ Coffee Consumption  █████████████████████   100%
 🤖 ROS2 Nodes         ████████████░░░░░░░░░   60%
