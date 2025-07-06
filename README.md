@@ -5,9 +5,8 @@
 </div>
 
 ---
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Building+the+future+with+circuits+and+code;Turning+coffee+into+robotic+solutions;ROS2+%7C+Computer+Vision+%7C+Embedded+Systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Building+with+circuits+%26+code;Coffee-powered+robotics;ROS2+%7C+Computer+Vision+%7C+Embedded+Systems" alt="Typing animation" />
 </p>
 
 ---
