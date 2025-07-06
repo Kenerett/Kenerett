@@ -80,6 +80,7 @@ class STNSApp extends StatelessWidget {
     );
   }
 }
+```
 ⚡ Daily Development Stats
 
 🌌 Late Night Coding  ███████████████████░░   85% 
