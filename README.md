@@ -5,9 +5,6 @@
 
 *Building autonomous systems at the intersection of robotics, computer vision, and machine learning*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linktr.ee/Amos_root)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://keneret.pythonanywhere.com)
-[![AIRT](https://img.shields.io/badge/AIRT-Robotics%20Startup-blueviolet?style=flat)](https://airt.az)
 
 </div>
 
