@@ -1,104 +1,143 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxldXZkZm8zejg1Mm1veTIxc250aGZsYnZqMndmdWY4YzFsd3B1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mIZ9rPeMKefm0/giphy.gif" width="200"/>
-  <h1>👋 Hey there, I'm Keneret</h1>
-  <h3>🤖 Robotics Engineer | 🧠 AI Enthusiast | 💻 Full-Stack Developer | 👨‍🎓 Student </h3>
+
+# Ismayil Kalbiyev
+### Robotics Engineer · AI Researcher · Founder
+
+*Building autonomous systems at the intersection of robotics, computer vision, and machine learning*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linktr.ee/Amos_root)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://keneret.pythonanywhere.com)
+[![AIRT](https://img.shields.io/badge/AIRT-Robotics%20Startup-blueviolet?style=flat)](https://airt.az)
+
 </div>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Building+with+circuits+%26+code;Coffee-powered+robotics;ROS2+%7C+Computer+Vision+%7C+Embedded+Systems" alt="Typing animation" />
-</p>
+
+## 🧭 About Me
+
+I'm a robotics engineer and founder based in Baku, Azerbaijan. I build autonomous systems that operate in real, unstructured environments — from quadruped robots for industrial inspection to autonomous field robots. My work spans the full stack: from low-level kinematics and embedded firmware to reinforcement learning pipelines and computer vision.
+
+I am currently leading **AIRT** (Azerbaijan Intelligent Robotics Technologies), where we develop **AID-1** — a quadruped robot designed for autonomous inspection in oil & gas and defense environments.
+
+- 🎓 BSc student, Azerbaijan State Oil and Industry University (ADNSU)
+- 🏢 Founder & CEO, [AIRT](https://airt.az) — deeptech robotics startup, Baku
+- 🔬 Research focus: legged locomotion, SLAM, sim-to-real transfer, industrial robotics
+- 🌍 Targeting graduate studies in robotics / autonomous systems (2026–2027)
 
 ---
 
-### 🛠️ My Tech Stack
+## 🏆 Highlights
 
-#### 🤖 Robotics & Embedded
-<p>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" alt="YOLO" />
-
-</p>
-
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-#### 🌐 Web & Mobile
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> -->
-</p>
+| | |
+|---|---|
+| 🥇 | **IMechE SOFE 2026 — National Winner**, Azerbaijan (advancing to regional stage) |
+| 🤖 | **AID-1 Quadruped Robot** — autonomous inspection platform for ATEX Zone 2 environments |
+| 🌊 | **Sweepy** — autonomous beach-cleaning robot (YOLOv8 + ROS2 + LiDAR SLAM) |
+| 🏭 | **AWR** — 6-DOF autonomous welding robot registered for Teknofest 2026 Roboleague |
+| 🎯 | **IDDA/IDEALISE Incubation** — Demo Day winner, R&D grant recipient (RL, SLAM, ROS2) |
+| 📐 | **IMechE SOFE 2026** — presented inverse kinematics, PPO reinforcement learning, QDD actuators |
 
 ---
 
-### 🚀 Featured Projects
+## 🤖 Featured Projects
 
-#### 🤖 Sweepy - Autonomous Beach Cleaning Robot
-```python
-class Sweepy:
-    def __init__(self):
-        self.vision = YOLOv8()
-        self.nav = ROS2Navigation()
-        self.actuators = RoboticArm()
-    
-    def clean_beach(self):
-        while True:
-            trash = self.vision.detect_trash()
-            if trash:
-                path = self.nav.plan_path(trash.position)
-                self.nav.follow_path(path)
-                self.actuators.collect(trash)
-```
-#### 📚 STNS - Smart Education Platform
-```Dart
-class STNSApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MultiProvider(
-      providers: [
-        ChangeNotifierProvider(create: (_) => AuthProvider()),
-        ChangeNotifierProvider(create: (_) => DataProvider()),
-      ],
-      child: MaterialApp(
-        title: 'STNS',
-        theme: AppTheme.lightTheme,
-        home: AuthWrapper(),
-        navigatorObservers: [AnalyticsObserver()],
-      ),
-    );
-  }
-}
-```
-⚡ Daily Development Stats
-```
-🌌 Late Night Coding  ███████████████████░░   85% 
-☕ Coffee Consumed    █████████████████████   100%
-🤖 ROS2 Nodes         ████████████░░░░░░░░░   60%
-🐍 Python Scripts     █████████████████░░░░   75%
-🔧 Hardware Debugging ████████░░░░░░░░░░░░░   40%
-```
+### AID-1 — Autonomous Industrial Quadruped
+> *AIRT's flagship platform. Quadruped robot for inspection in oil & gas facilities.*
 
+- Reinforcement learning locomotion via **Isaac Lab / Isaac Sim** (PPO)
+- **LiDAR SLAM** for autonomous navigation in GPS-denied environments  
+- **YOLOv8** computer vision: PPE detection, anomaly detection, thermal inspection
+- Custom **QDD actuators** (quasi-direct-drive) for compliant, high-torque joints
+- ROS2 architecture with modular sensor fusion
+- Targeting **ATEX Zone 2** certification (only ANYbotics ANYmal certified globally)
+- Web control dashboard (Django + WebSocket)
 
-### 📫 Let's Connect!
+**Stack:** ROS2 · Python · C++ · Isaac Lab · YOLOv8 · SLAM · OpenCV · Django
 
-<p align="center">
-  <a href="https://linktr.ee/Amos_root">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-</p>
+---
 
+### Sweepy — Autonomous Beach Cleaning Robot
+> *Autonomous mobile robot for coastal waste collection. Full sensor fusion pipeline.*
 
+- Outdoor **LiDAR-based SLAM** with obstacle avoidance
+- **YOLOv8** trash detection and classification
+- Custom robotic arm actuated via servo/BLDC
+- ROS2 navigation stack (Nav2)
+- Raspberry Pi 4 + NVIDIA Jetson compute
 
+**Stack:** ROS2 · Python · YOLOv8 · OpenCV · LiDAR · Nav2 · Raspberry Pi
 
+---
 
+### AWR — Autonomous Welding Robot (6-DOF Manipulator)
+> *Industrial arm with cycloidal reducers for precise trajectory following. Registered: Teknofest 2026 Roboleague.*
+
+- Custom **cycloidal reducer design** (Python CAD generation scripts)
+- **MoveIt2** motion planning with ROS2
+- NEMA 23 stepper + BLDC hybrid actuation
+- Inverse kinematics solver — custom implementation
+
+**Stack:** ROS2 · MoveIt2 · C++ · Python · Arduino · SolidWorks
+
+---
+
+### IK Solver — Quadruped Inverse Kinematics
+> *From-scratch IK implementation for 12-DOF legged systems with Bézier gait generation.*
+
+- Analytical IK for 3-DOF leg chains
+- **Bézier curve** foot trajectories for trot, walk, bound gaits
+- Diagonal pair synchronization and phase control
+- Tested on Dynamixel XL430 servo platform
+
+**Stack:** Python · C++ · NumPy · Matplotlib
+
+---
+
+## 🛠️ Technical Stack
+
+#### Robotics & Autonomous Systems
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat&logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=opencv&logoColor=black)
+![MoveIt](https://img.shields.io/badge/MoveIt2-FF6B00?style=flat&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+#### ML / AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab%20RL-76B900?style=flat&logo=nvidia&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logoColor=white)
+
+#### Web & Software
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenerett&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenerett&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Contact
+
+- 🌐 Portfolio: [keneret.pythonanywhere.com](https://keneret.pythonanywhere.com)
+- 🔗 Links: [linktr.ee/Amos_root](https://linktr.ee/Amos_root)
+- 🏢 Company: [airt.az](https://airt.az)
+- 📍 Baku, Azerbaijan
+
+---
+
+<div align="center">
+<i>Open to research collaborations, graduate opportunities, and industrial robotics partnerships.</i>
+</div>
