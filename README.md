@@ -30,7 +30,7 @@ I am currently leading **AIRT** (Azerbaijan Intelligent Robotics Technologies), 
 | 🤖 | **AID-1 Quadruped Robot** — autonomous inspection platform for ATEX Zone 2 environments |
 | 🌊 | **Sweepy** — autonomous beach-cleaning robot  |
 | 🏭 | **AWR** — 6-DOF autonomous welding robot registered for Teknofest 2026 Roboleague |
-| 🎯 | **IDDA/IDEALISE Incubation** — Demo Day winner |
+| 🎯 | **IDDA/ASOIU Incubation** — Demo Day winner |
 
 
 ---
