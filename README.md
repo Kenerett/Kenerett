@@ -22,7 +22,6 @@ I am currently leading **AIRT** (Azerbaijan Intelligent Robotics Technologies), 
 - 🎓 BSc student, Azerbaijan State Oil and Industry University (ADNSU)
 - 🏢 Founder & CEO, [AIRT](https://airt.az) — deeptech robotics startup, Baku
 - 🔬 Research focus: legged locomotion, SLAM, sim-to-real transfer, industrial robotics
-- 🌍 Targeting graduate studies in robotics / autonomous systems (2026–2027)
 
 ---
 
@@ -32,10 +31,10 @@ I am currently leading **AIRT** (Azerbaijan Intelligent Robotics Technologies), 
 |---|---|
 | 🥇 | **IMechE SOFE 2026 — National Winner**, Azerbaijan (advancing to regional stage) |
 | 🤖 | **AID-1 Quadruped Robot** — autonomous inspection platform for ATEX Zone 2 environments |
-| 🌊 | **Sweepy** — autonomous beach-cleaning robot (YOLOv8 + ROS2 + LiDAR SLAM) |
+| 🌊 | **Sweepy** — autonomous beach-cleaning robot  |
 | 🏭 | **AWR** — 6-DOF autonomous welding robot registered for Teknofest 2026 Roboleague |
-| 🎯 | **IDDA/IDEALISE Incubation** — Demo Day winner, R&D grant recipient (RL, SLAM, ROS2) |
-| 📐 | **IMechE SOFE 2026** — presented inverse kinematics, PPO reinforcement learning, QDD actuators |
+| 🎯 | **IDDA/IDEALISE Incubation** — Demo Day winner |
+
 
 ---
 
@@ -59,37 +58,18 @@ I am currently leading **AIRT** (Azerbaijan Intelligent Robotics Technologies), 
 ### Sweepy — Autonomous Beach Cleaning Robot
 > *Autonomous mobile robot for coastal waste collection. Full sensor fusion pipeline.*
 
-- Outdoor **LiDAR-based SLAM** with obstacle avoidance
-- **YOLOv8** trash detection and classification
-- Custom robotic arm actuated via servo/BLDC
-- ROS2 navigation stack (Nav2)
-- Raspberry Pi 4 + NVIDIA Jetson compute
 
-**Stack:** ROS2 · Python · YOLOv8 · OpenCV · LiDAR · Nav2 · Raspberry Pi
+
 
 ---
 
-### AWR — Autonomous Welding Robot (6-DOF Manipulator)
-> *Industrial arm with cycloidal reducers for precise trajectory following. Registered: Teknofest 2026 Roboleague.*
+### ARA — Autonomous Robotic Arm (3 versions)
 
 - Custom **cycloidal reducer design** (Python CAD generation scripts)
-- **MoveIt2** motion planning with ROS2
-- NEMA 23 stepper + BLDC hybrid actuation
-- Inverse kinematics solver — custom implementation
 
-**Stack:** ROS2 · MoveIt2 · C++ · Python · Arduino · SolidWorks
 
 ---
 
-### IK Solver — Quadruped Inverse Kinematics
-> *From-scratch IK implementation for 12-DOF legged systems with Bézier gait generation.*
-
-- Analytical IK for 3-DOF leg chains
-- **Bézier curve** foot trajectories for trot, walk, bound gaits
-- Diagonal pair synchronization and phase control
-- Tested on Dynamixel XL430 servo platform
-
-**Stack:** Python · C++ · NumPy · Matplotlib
 
 ---
 
@@ -108,8 +88,7 @@ I am currently leading **AIRT** (Azerbaijan Intelligent Robotics Technologies), 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 #### ML / AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -118,14 +97,8 @@ I am currently leading **AIRT** (Azerbaijan Intelligent Robotics Technologies), 
 
 #### Web & Software
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ---
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenerett&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenerett&layout=compact&theme=dark&hide_border=true)
 
 ---
 
